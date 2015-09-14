@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Operasi perhitungan KPK pada integer."
   spec.description   = "Operasi perhitungan KPK pada integer."
-  spec.homepage      = "http:example.com"
+  spec.homepage      = "https://github.com/corokun/kapeka"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
